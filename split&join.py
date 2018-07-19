@@ -14,3 +14,5 @@ print("this is c: "+c)
 items3 = 'hello.everyone.bye'
 d,e,f = items3.split(".")
 print(d)
+
+#test
